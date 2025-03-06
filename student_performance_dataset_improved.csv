@@ -1,0 +1,1001 @@
+Student_ID,Gender,Age,Grade_Level,Attendance (%),Hours_Studied_Weekly,Parental_Education_Level,Household_Income,Previous_Year_Grade,Participation_in_Extracurriculars,Health_Status,Final_Grade
+S0001,Male,14,10th,72,24,Master's,Low,A,Yes,Poor,B
+S0002,Female,14,11th,67,24,High School,Low,C,Yes,Poor,D
+S0003,Male,14,10th,82,22,Master's,Low,D,No,Good,C
+S0004,Male,18,10th,60,18,Master's,Medium,D,Yes,Poor,C
+S0005,Male,17,11th,83,22,High School,Medium,B,No,Average,D
+S0006,Female,18,12th,94,18,Bachelor's,High,B,Yes,Good,A
+S0007,Male,17,9th,83,24,Master's,Low,D,No,Good,C
+S0008,Male,18,12th,76,19,High School,Medium,B,No,Average,D
+S0009,Male,18,11th,64,8,Master's,Low,C,No,Average,F
+S0010,Female,16,9th,79,17,Master's,Medium,B,Yes,Average,B
+S0011,Male,18,11th,80,12,Master's,Low,B,Yes,Poor,C
+S0012,Male,15,11th,99,22,Master's,Medium,D,Yes,Good,A
+S0013,Male,16,10th,90,16,High School,High,D,Yes,Poor,C
+S0014,Male,18,9th,95,18,High School,High,A,Yes,Average,A
+S0015,Female,14,10th,70,6,High School,Low,A,No,Poor,F
+S0016,Male,15,9th,74,22,Master's,Medium,D,No,Average,D
+S0017,Female,15,11th,78,6,Master's,Medium,B,No,Poor,D
+S0018,Female,15,11th,66,15,Master's,Low,B,No,Poor,D
+S0019,Female,16,12th,87,13,High School,Medium,A,No,Average,F
+S0020,Male,18,9th,64,16,Master's,Low,A,No,Poor,C
+S0021,Female,18,10th,64,21,Bachelor's,Medium,A,No,Good,B
+S0022,Male,14,12th,89,19,Master's,Low,C,Yes,Poor,C
+S0023,Female,14,12th,91,21,Bachelor's,Medium,C,No,Poor,C
+S0024,Female,15,12th,67,22,Master's,Low,A,Yes,Good,A
+S0025,Female,14,10th,69,10,High School,Medium,B,No,Average,F
+S0026,Female,16,12th,97,21,Master's,High,A,No,Good,A
+S0027,Female,18,10th,91,22,Bachelor's,Medium,C,Yes,Poor,B
+S0028,Female,15,12th,87,12,Bachelor's,Low,B,No,Average,D
+S0029,Female,14,10th,76,13,Master's,High,C,Yes,Poor,C
+S0030,Female,16,11th,90,10,Bachelor's,Medium,B,No,Poor,D
+S0031,Male,16,11th,67,9,Bachelor's,High,C,Yes,Good,B
+S0032,Male,14,11th,99,16,High School,Medium,B,No,Good,B
+S0033,Female,18,11th,84,15,Master's,High,B,Yes,Average,B
+S0034,Female,14,11th,68,5,Master's,Low,B,Yes,Average,C
+S0035,Female,15,12th,61,15,Master's,Medium,B,No,Average,D
+S0036,Male,14,12th,74,23,Bachelor's,Medium,D,No,Poor,D
+S0037,Female,16,12th,62,13,Master's,Low,C,Yes,Good,C
+S0038,Male,14,10th,95,6,Master's,High,C,No,Good,B
+S0039,Male,18,10th,63,16,High School,Low,D,Yes,Good,C
+S0040,Male,17,10th,73,8,High School,Low,B,No,Average,F
+S0041,Male,14,10th,100,8,High School,High,B,Yes,Good,A
+S0042,Male,18,11th,100,22,Bachelor's,Low,C,No,Good,B
+S0043,Female,18,11th,84,19,Master's,Medium,D,Yes,Good,B
+S0044,Female,16,11th,69,23,High School,Medium,B,No,Average,D
+S0045,Female,18,9th,80,17,High School,Medium,B,Yes,Good,B
+S0046,Female,18,12th,95,23,High School,Low,B,Yes,Average,B
+S0047,Female,18,10th,71,21,Master's,Medium,A,No,Good,B
+S0048,Male,18,10th,86,10,Master's,Medium,D,No,Good,D
+S0049,Female,15,11th,99,20,Master's,Medium,B,Yes,Good,A
+S0050,Female,15,10th,61,16,Bachelor's,Medium,A,Yes,Average,B
+S0051,Male,16,10th,72,23,Bachelor's,Medium,D,Yes,Average,C
+S0052,Female,14,12th,91,9,High School,Medium,B,Yes,Good,B
+S0053,Male,18,11th,90,21,Master's,Low,C,No,Poor,D
+S0054,Female,14,12th,75,5,High School,Medium,A,Yes,Average,D
+S0055,Male,14,9th,91,14,Master's,Medium,A,Yes,Average,B
+S0056,Female,16,9th,91,19,Master's,High,B,Yes,Good,A
+S0057,Female,18,9th,93,15,Master's,Low,B,No,Poor,C
+S0058,Male,18,11th,70,17,Bachelor's,Low,A,Yes,Good,A
+S0059,Male,17,10th,69,9,Bachelor's,Low,C,No,Average,F
+S0060,Male,14,11th,74,5,Master's,Low,C,No,Average,F
+S0061,Male,14,11th,76,16,High School,Medium,D,No,Good,D
+S0062,Male,15,10th,99,15,Master's,Medium,B,No,Good,B
+S0063,Male,17,12th,77,21,Master's,High,C,No,Poor,C
+S0064,Male,15,9th,68,8,High School,High,D,No,Poor,F
+S0065,Male,15,12th,84,19,Master's,Low,C,No,Average,D
+S0066,Female,15,9th,99,13,High School,High,B,Yes,Poor,B
+S0067,Female,16,11th,73,24,Bachelor's,High,D,Yes,Poor,B
+S0068,Male,16,9th,84,23,Bachelor's,Low,D,No,Average,D
+S0069,Female,15,11th,81,23,High School,Low,D,Yes,Average,D
+S0070,Female,17,12th,89,16,Bachelor's,High,C,Yes,Average,B
+S0071,Female,14,11th,79,9,Bachelor's,Medium,B,No,Average,D
+S0072,Female,17,12th,80,14,High School,High,D,Yes,Good,C
+S0073,Male,18,10th,91,21,Bachelor's,High,A,No,Average,A
+S0074,Female,16,10th,80,9,Master's,Medium,B,Yes,Average,C
+S0075,Male,14,10th,94,20,Master's,Medium,A,No,Average,B
+S0076,Female,14,11th,91,11,High School,Low,A,No,Poor,D
+S0077,Female,18,10th,89,13,Bachelor's,Low,D,Yes,Average,D
+S0078,Female,18,9th,98,7,Master's,High,D,Yes,Good,A
+S0079,Male,15,12th,71,19,Master's,Medium,C,No,Good,C
+S0080,Female,16,12th,100,20,Bachelor's,Low,C,No,Average,C
+S0081,Male,16,9th,77,22,Bachelor's,High,C,No,Good,B
+S0082,Female,17,11th,80,18,Master's,Medium,B,Yes,Poor,B
+S0083,Male,15,11th,72,7,Master's,High,C,Yes,Average,C
+S0084,Female,15,12th,80,16,High School,Low,A,Yes,Good,B
+S0085,Male,15,10th,67,13,High School,Low,C,Yes,Good,D
+S0086,Male,15,11th,99,11,Master's,Medium,D,No,Average,D
+S0087,Female,16,11th,66,13,High School,High,C,No,Good,D
+S0088,Male,16,9th,82,17,Master's,Medium,B,No,Average,C
+S0089,Female,15,9th,91,22,Master's,Low,B,No,Good,A
+S0090,Female,17,10th,70,9,High School,Low,A,Yes,Poor,D
+S0091,Female,14,11th,81,17,High School,High,B,No,Good,B
+S0092,Female,14,11th,81,8,Bachelor's,High,C,No,Good,C
+S0093,Female,17,9th,84,6,Bachelor's,High,D,Yes,Average,C
+S0094,Female,15,11th,81,20,Bachelor's,Medium,B,Yes,Good,A
+S0095,Female,16,12th,87,13,Master's,High,A,No,Average,C
+S0096,Female,14,9th,88,13,High School,High,C,Yes,Poor,D
+S0097,Female,18,10th,72,10,Master's,Low,A,No,Average,D
+S0098,Female,18,9th,77,15,High School,Low,B,Yes,Average,D
+S0099,Female,17,11th,61,5,Master's,High,B,Yes,Good,A
+S0100,Male,15,10th,88,8,Bachelor's,High,A,No,Poor,C
+S0101,Male,14,9th,80,17,Bachelor's,Low,C,Yes,Average,C
+S0102,Female,15,12th,74,17,Bachelor's,High,B,No,Good,A
+S0103,Female,14,12th,86,17,Master's,Medium,D,Yes,Good,B
+S0104,Female,17,9th,90,6,High School,Medium,B,Yes,Average,D
+S0105,Female,17,12th,74,13,High School,Medium,C,Yes,Good,D
+S0106,Female,18,12th,82,12,Bachelor's,High,B,Yes,Average,B
+S0107,Female,15,12th,83,11,Bachelor's,Low,A,Yes,Average,C
+S0108,Female,18,10th,72,8,Bachelor's,High,B,No,Average,C
+S0109,Female,15,12th,81,22,Bachelor's,High,B,Yes,Poor,A
+S0110,Male,18,12th,96,7,High School,Low,C,No,Average,F
+S0111,Female,16,12th,92,10,Master's,Low,A,Yes,Good,A
+S0112,Male,16,10th,62,16,Master's,Low,C,No,Poor,D
+S0113,Female,16,9th,78,16,Master's,Medium,B,Yes,Good,A
+S0114,Female,16,11th,82,12,Master's,High,D,No,Poor,D
+S0115,Male,14,12th,88,5,Bachelor's,Low,B,No,Poor,D
+S0116,Female,16,9th,89,8,Bachelor's,High,C,Yes,Poor,C
+S0117,Male,17,12th,98,15,Bachelor's,Medium,D,Yes,Poor,C
+S0118,Female,17,10th,84,7,Master's,Medium,C,Yes,Good,C
+S0119,Female,14,9th,96,17,Bachelor's,Low,C,No,Average,C
+S0120,Male,16,10th,67,21,Bachelor's,Low,A,No,Good,B
+S0121,Female,16,12th,75,14,High School,High,D,Yes,Average,D
+S0122,Male,16,12th,67,16,High School,Low,B,Yes,Good,B
+S0123,Female,18,10th,60,19,Bachelor's,High,C,No,Poor,C
+S0124,Male,15,11th,64,14,High School,Low,B,No,Poor,F
+S0125,Male,18,10th,62,18,High School,High,A,Yes,Average,B
+S0126,Female,15,12th,60,17,Bachelor's,High,A,No,Average,B
+S0127,Female,16,10th,63,9,Bachelor's,High,D,Yes,Good,B
+S0128,Male,16,11th,99,10,Bachelor's,High,A,Yes,Average,A
+S0129,Female,18,10th,94,6,Bachelor's,Medium,A,Yes,Good,A
+S0130,Female,18,11th,91,21,Master's,High,B,No,Average,A
+S0131,Female,15,11th,93,8,Master's,Low,A,No,Average,C
+S0132,Male,17,10th,84,18,Bachelor's,Medium,A,No,Average,C
+S0133,Male,15,10th,69,14,High School,Medium,C,No,Poor,F
+S0134,Male,18,9th,80,7,Bachelor's,High,A,Yes,Poor,B
+S0135,Male,18,12th,98,7,Bachelor's,Medium,C,No,Good,C
+S0136,Male,14,11th,86,19,High School,High,A,Yes,Average,B
+S0137,Male,18,9th,86,10,Master's,Low,A,Yes,Good,B
+S0138,Male,14,10th,61,21,Bachelor's,High,D,Yes,Average,B
+S0139,Male,17,12th,100,16,Bachelor's,Medium,D,No,Poor,C
+S0140,Male,15,9th,72,24,Master's,Low,C,Yes,Poor,C
+S0141,Female,15,11th,68,15,Master's,High,A,Yes,Average,B
+S0142,Male,14,9th,95,8,High School,Low,B,No,Average,D
+S0143,Female,15,11th,81,10,Master's,Low,D,Yes,Poor,D
+S0144,Female,18,10th,85,5,Master's,Medium,B,No,Poor,D
+S0145,Female,16,12th,71,24,Master's,Low,D,No,Good,C
+S0146,Male,14,12th,76,20,High School,Medium,D,No,Poor,F
+S0147,Male,15,12th,73,19,Master's,Low,A,Yes,Average,B
+S0148,Male,14,10th,73,21,Master's,High,D,No,Good,B
+S0149,Male,14,11th,93,12,High School,Low,B,No,Average,D
+S0150,Female,16,10th,79,16,Master's,High,D,No,Good,B
+S0151,Male,18,12th,70,14,Master's,High,C,No,Average,D
+S0152,Male,14,10th,75,19,High School,Low,A,Yes,Poor,C
+S0153,Male,15,10th,90,13,Bachelor's,High,A,No,Average,C
+S0154,Male,17,10th,65,6,High School,Low,C,Yes,Good,D
+S0155,Male,14,11th,78,9,Master's,Low,C,No,Average,F
+S0156,Female,14,9th,96,10,Master's,High,C,Yes,Good,A
+S0157,Male,16,9th,63,11,Master's,High,D,No,Average,D
+S0158,Female,18,10th,63,5,High School,Medium,A,Yes,Poor,D
+S0159,Male,17,9th,79,11,Master's,High,C,No,Poor,D
+S0160,Female,15,9th,69,24,Master's,Medium,D,Yes,Average,C
+S0161,Male,17,10th,83,16,High School,High,C,Yes,Average,C
+S0162,Male,15,10th,94,20,Bachelor's,Low,B,Yes,Average,A
+S0163,Female,18,12th,85,20,Bachelor's,High,B,No,Good,A
+S0164,Female,15,9th,96,15,Master's,Low,A,Yes,Average,B
+S0165,Female,16,11th,97,8,High School,Low,D,Yes,Average,D
+S0166,Male,16,10th,80,17,Master's,Low,B,Yes,Good,A
+S0167,Female,16,12th,99,11,High School,Medium,B,Yes,Poor,C
+S0168,Male,16,11th,98,8,High School,High,D,No,Average,D
+S0169,Male,17,9th,80,19,Bachelor's,Low,C,Yes,Average,C
+S0170,Female,18,12th,69,23,Bachelor's,Low,D,Yes,Poor,C
+S0171,Female,15,10th,97,13,High School,Medium,C,Yes,Poor,D
+S0172,Male,15,11th,63,15,Master's,High,B,No,Good,B
+S0173,Male,16,10th,79,12,Bachelor's,High,B,Yes,Average,B
+S0174,Female,16,9th,76,5,Master's,Medium,B,Yes,Average,C
+S0175,Female,14,11th,66,12,Bachelor's,Medium,A,Yes,Good,B
+S0176,Female,18,9th,63,17,Bachelor's,High,A,Yes,Poor,A
+S0177,Male,17,9th,88,8,Master's,Medium,A,No,Good,C
+S0178,Male,15,12th,73,12,Bachelor's,High,D,Yes,Poor,C
+S0179,Male,14,10th,62,7,Bachelor's,High,B,Yes,Good,A
+S0180,Male,14,11th,83,13,Master's,Low,B,No,Poor,D
+S0181,Male,15,9th,96,6,Bachelor's,Low,D,No,Good,C
+S0182,Male,17,9th,75,6,Bachelor's,High,A,No,Poor,C
+S0183,Female,14,11th,63,17,Bachelor's,High,D,Yes,Poor,B
+S0184,Male,14,9th,83,19,Master's,High,A,No,Poor,B
+S0185,Male,18,12th,93,16,High School,High,B,Yes,Poor,A
+S0186,Male,17,12th,89,8,Master's,High,C,No,Poor,D
+S0187,Female,14,12th,77,12,High School,High,A,Yes,Average,C
+S0188,Male,17,12th,78,13,Bachelor's,Medium,B,No,Poor,D
+S0189,Male,15,9th,90,9,High School,High,B,Yes,Average,C
+S0190,Female,16,11th,78,24,Master's,Medium,C,No,Poor,D
+S0191,Male,14,11th,78,22,Master's,Medium,B,Yes,Average,B
+S0192,Male,18,11th,81,15,Bachelor's,High,B,Yes,Average,B
+S0193,Male,15,11th,83,19,High School,High,A,Yes,Good,A
+S0194,Male,17,10th,71,13,Bachelor's,Medium,A,Yes,Poor,C
+S0195,Male,15,11th,89,21,Bachelor's,Medium,C,Yes,Good,B
+S0196,Female,14,10th,97,16,Master's,High,C,Yes,Good,A
+S0197,Female,17,10th,90,11,High School,High,B,Yes,Poor,C
+S0198,Female,16,12th,95,14,High School,Medium,A,Yes,Good,B
+S0199,Male,15,10th,78,14,High School,Medium,C,No,Poor,F
+S0200,Male,14,9th,95,17,High School,Medium,C,Yes,Good,B
+S0201,Male,18,10th,89,23,Bachelor's,Low,D,Yes,Poor,C
+S0202,Female,17,12th,92,15,Bachelor's,Medium,C,No,Poor,D
+S0203,Male,15,10th,77,17,Master's,Low,B,Yes,Poor,B
+S0204,Male,15,9th,87,12,Bachelor's,High,A,No,Average,C
+S0205,Female,16,9th,70,12,Bachelor's,High,C,Yes,Good,B
+S0206,Male,16,9th,92,8,Master's,Medium,D,No,Average,D
+S0207,Female,18,12th,76,19,Master's,High,A,No,Good,A
+S0208,Female,18,12th,65,15,Master's,High,C,Yes,Good,B
+S0209,Female,14,11th,63,15,Bachelor's,High,D,No,Good,C
+S0210,Male,14,12th,79,5,Bachelor's,High,C,Yes,Average,C
+S0211,Male,18,9th,86,21,Master's,Low,A,Yes,Good,A
+S0212,Male,18,9th,74,19,Master's,Low,A,Yes,Average,B
+S0213,Male,17,12th,65,24,Master's,Medium,A,Yes,Poor,B
+S0214,Male,16,10th,73,10,Bachelor's,Medium,B,No,Good,C
+S0215,Male,14,12th,70,19,Bachelor's,Medium,C,Yes,Good,B
+S0216,Male,16,12th,98,13,High School,High,B,No,Poor,C
+S0217,Female,16,9th,68,18,Bachelor's,High,A,No,Poor,B
+S0218,Male,18,11th,85,22,Bachelor's,Low,D,Yes,Good,B
+S0219,Female,17,9th,75,21,Bachelor's,Low,C,Yes,Poor,C
+S0220,Male,15,11th,64,22,Master's,Medium,B,Yes,Average,B
+S0221,Male,17,9th,69,9,Bachelor's,Low,C,Yes,Average,D
+S0222,Male,17,12th,62,24,Master's,Low,D,No,Good,C
+S0223,Female,16,9th,72,24,High School,Low,B,Yes,Average,C
+S0224,Female,17,9th,89,13,High School,Low,A,No,Average,F
+S0225,Female,14,9th,65,15,Master's,Low,B,Yes,Good,B
+S0226,Female,16,12th,76,5,Master's,Medium,C,Yes,Poor,D
+S0227,Male,14,12th,78,22,Master's,Medium,C,Yes,Good,B
+S0228,Female,15,12th,94,10,Bachelor's,Low,C,Yes,Average,C
+S0229,Male,16,12th,85,6,High School,Medium,C,No,Good,F
+S0230,Male,15,11th,64,19,Master's,High,A,No,Good,A
+S0231,Female,16,11th,88,18,Bachelor's,Low,B,Yes,Average,B
+S0232,Female,18,10th,96,9,High School,High,A,No,Average,C
+S0233,Female,17,12th,79,10,Bachelor's,Medium,A,No,Good,C
+S0234,Female,18,11th,80,10,High School,Medium,A,Yes,Average,D
+S0235,Female,15,9th,69,22,Bachelor's,High,C,Yes,Average,B
+S0236,Female,17,12th,64,18,High School,Medium,C,No,Average,F
+S0237,Female,16,10th,95,14,High School,Low,C,No,Average,F
+S0238,Female,17,10th,65,18,Bachelor's,High,B,No,Average,B
+S0239,Male,14,10th,85,17,Master's,Low,D,No,Average,D
+S0240,Female,17,9th,63,7,High School,High,C,Yes,Poor,D
+S0241,Female,14,11th,98,10,Master's,Medium,B,Yes,Good,A
+S0242,Male,17,9th,98,12,Bachelor's,High,C,No,Average,C
+S0243,Female,14,12th,94,16,Master's,High,C,Yes,Good,A
+S0244,Male,15,10th,60,17,Master's,Low,A,No,Poor,C
+S0245,Male,18,9th,83,15,Master's,Medium,A,No,Average,D
+S0246,Female,16,9th,95,16,Master's,Low,A,Yes,Good,A
+S0247,Male,17,11th,65,5,Master's,Medium,B,No,Average,D
+S0248,Male,18,11th,100,21,High School,Low,D,No,Average,D
+S0249,Male,16,10th,90,20,High School,High,D,Yes,Average,C
+S0250,Male,16,9th,79,15,High School,Low,B,Yes,Average,D
+S0251,Female,14,9th,83,17,Bachelor's,Medium,C,No,Average,D
+S0252,Male,15,11th,84,22,Master's,Medium,B,No,Average,C
+S0253,Female,15,9th,95,15,High School,High,C,Yes,Average,C
+S0254,Male,18,9th,80,16,Bachelor's,Medium,B,No,Poor,C
+S0255,Male,15,9th,89,10,High School,Low,B,No,Poor,F
+S0256,Male,17,11th,83,13,High School,High,B,Yes,Average,C
+S0257,Male,15,10th,89,20,Master's,Medium,D,Yes,Average,C
+S0258,Female,18,12th,81,8,Bachelor's,Medium,A,Yes,Poor,C
+S0259,Female,15,10th,87,7,Master's,Low,B,Yes,Poor,C
+S0260,Male,17,12th,66,20,Master's,Low,D,Yes,Poor,C
+S0261,Male,14,9th,94,16,High School,High,A,Yes,Average,A
+S0262,Female,18,10th,87,15,Master's,Medium,A,No,Good,C
+S0263,Male,14,12th,73,9,Bachelor's,Low,B,No,Good,C
+S0264,Male,14,11th,69,22,Master's,High,C,Yes,Good,A
+S0265,Male,14,11th,75,23,Master's,Medium,C,Yes,Good,B
+S0266,Female,16,10th,75,10,Master's,Medium,C,No,Average,F
+S0267,Female,16,10th,90,22,High School,High,B,No,Good,B
+S0268,Female,14,9th,84,10,Bachelor's,High,C,No,Poor,D
+S0269,Male,18,10th,72,8,High School,Low,D,Yes,Poor,F
+S0270,Male,17,9th,65,16,High School,Medium,D,Yes,Good,C
+S0271,Female,17,9th,68,23,High School,Medium,D,No,Poor,F
+S0272,Female,15,11th,95,6,High School,Medium,D,Yes,Average,D
+S0273,Female,18,11th,79,21,High School,High,A,Yes,Good,A
+S0274,Female,16,12th,77,15,Bachelor's,Low,D,Yes,Good,C
+S0275,Male,14,11th,80,15,Master's,Medium,C,No,Average,F
+S0276,Female,15,11th,63,20,High School,High,B,No,Poor,C
+S0277,Male,17,10th,92,6,High School,Medium,C,Yes,Average,D
+S0278,Female,16,11th,86,6,Bachelor's,Low,D,Yes,Average,D
+S0279,Male,16,12th,66,12,Bachelor's,Medium,A,Yes,Poor,C
+S0280,Female,14,10th,65,17,Master's,Low,D,Yes,Average,C
+S0281,Female,17,12th,74,14,Bachelor's,Low,B,Yes,Poor,C
+S0282,Female,18,11th,77,12,Master's,Medium,C,No,Poor,F
+S0283,Female,16,12th,91,8,High School,Medium,B,Yes,Average,C
+S0284,Male,14,10th,70,19,High School,Low,B,Yes,Poor,C
+S0285,Female,18,9th,79,5,Master's,High,B,Yes,Average,B
+S0286,Male,17,12th,83,15,Bachelor's,Low,C,No,Poor,F
+S0287,Male,16,12th,74,11,Master's,Medium,D,No,Good,D
+S0288,Male,18,10th,66,21,Bachelor's,Medium,B,Yes,Poor,B
+S0289,Male,18,10th,80,24,High School,High,C,No,Poor,D
+S0290,Female,18,12th,85,22,Bachelor's,Low,A,No,Average,C
+S0291,Male,16,11th,73,16,Master's,Low,C,No,Poor,D
+S0292,Male,16,12th,96,13,Master's,Low,A,No,Good,B
+S0293,Male,15,10th,80,9,High School,Medium,C,No,Good,F
+S0294,Female,17,9th,77,14,Bachelor's,Low,D,No,Poor,F
+S0295,Female,14,9th,64,8,Bachelor's,High,B,Yes,Poor,B
+S0296,Female,18,11th,62,9,Bachelor's,Medium,D,No,Good,D
+S0297,Female,15,12th,82,14,High School,Medium,C,No,Average,F
+S0298,Male,14,9th,85,15,Bachelor's,Low,B,Yes,Good,B
+S0299,Male,15,12th,96,14,Master's,High,A,Yes,Good,A
+S0300,Female,16,10th,83,12,Bachelor's,Medium,C,Yes,Poor,D
+S0301,Male,18,9th,78,6,High School,Medium,B,Yes,Poor,D
+S0302,Male,14,11th,84,12,Bachelor's,Low,A,No,Good,C
+S0303,Male,14,10th,80,20,Bachelor's,Low,A,No,Average,C
+S0304,Female,14,11th,71,9,Master's,High,D,No,Good,C
+S0305,Female,14,10th,100,7,Bachelor's,Low,C,No,Good,C
+S0306,Male,14,9th,92,16,Master's,High,A,Yes,Average,A
+S0307,Female,15,11th,63,17,Master's,Medium,B,No,Good,B
+S0308,Female,18,11th,66,17,High School,High,A,No,Good,B
+S0309,Female,16,10th,81,14,Master's,High,A,Yes,Poor,B
+S0310,Female,16,11th,92,8,Master's,High,D,No,Average,C
+S0311,Female,16,10th,76,13,High School,Medium,D,No,Poor,F
+S0312,Male,16,10th,83,6,Master's,Low,B,No,Poor,D
+S0313,Female,15,10th,93,23,High School,Medium,D,No,Average,D
+S0314,Male,17,10th,87,5,Bachelor's,Low,A,Yes,Average,C
+S0315,Male,18,9th,100,11,High School,High,A,Yes,Good,A
+S0316,Female,14,10th,98,21,Master's,High,D,Yes,Poor,A
+S0317,Male,17,12th,81,7,High School,High,A,Yes,Average,C
+S0318,Male,16,11th,76,24,Master's,High,A,Yes,Poor,A
+S0319,Male,17,12th,93,24,Bachelor's,High,B,No,Poor,A
+S0320,Female,18,9th,65,7,High School,Low,D,No,Average,F
+S0321,Female,14,12th,65,7,Bachelor's,Low,A,Yes,Good,B
+S0322,Male,14,11th,93,21,Master's,High,D,Yes,Poor,A
+S0323,Female,18,12th,60,11,Master's,Medium,B,Yes,Average,C
+S0324,Female,18,9th,69,18,Bachelor's,Medium,D,No,Good,C
+S0325,Female,16,10th,80,21,High School,High,A,Yes,Poor,B
+S0326,Female,14,12th,64,22,High School,Low,D,No,Average,F
+S0327,Male,17,9th,61,17,Master's,Medium,A,No,Poor,C
+S0328,Male,15,9th,81,24,Bachelor's,Medium,A,No,Average,C
+S0329,Female,15,11th,61,24,Bachelor's,Medium,A,No,Average,C
+S0330,Female,18,11th,69,22,High School,High,B,Yes,Poor,B
+S0331,Male,16,12th,93,8,High School,Medium,D,No,Poor,F
+S0332,Male,15,10th,75,5,High School,Medium,B,No,Average,F
+S0333,Female,14,9th,98,22,Bachelor's,Medium,D,Yes,Good,A
+S0334,Male,18,12th,81,5,High School,Medium,B,No,Poor,F
+S0335,Female,17,9th,71,17,High School,Low,C,No,Average,F
+S0336,Female,18,9th,83,24,Master's,High,A,No,Average,B
+S0337,Male,17,10th,99,24,High School,High,A,Yes,Good,A
+S0338,Male,18,10th,97,14,High School,Low,B,No,Good,C
+S0339,Female,18,12th,69,15,Bachelor's,Low,C,No,Good,D
+S0340,Female,18,10th,94,13,Bachelor's,High,A,Yes,Poor,A
+S0341,Male,17,10th,91,13,Master's,Medium,D,Yes,Average,C
+S0342,Female,17,12th,66,9,High School,Medium,B,No,Average,F
+S0343,Male,18,10th,80,5,Master's,High,A,No,Average,C
+S0344,Female,15,11th,79,21,Bachelor's,Medium,A,Yes,Good,A
+S0345,Male,16,9th,85,6,Master's,Low,B,No,Average,D
+S0346,Male,16,9th,63,17,Bachelor's,Medium,B,Yes,Poor,B
+S0347,Male,16,9th,81,13,Master's,Medium,D,No,Good,D
+S0348,Female,17,9th,74,8,Master's,Medium,D,Yes,Good,C
+S0349,Female,17,12th,99,9,High School,High,A,No,Good,B
+S0350,Male,15,9th,80,15,Master's,Low,A,Yes,Good,B
+S0351,Female,16,9th,74,23,High School,Medium,B,Yes,Poor,C
+S0352,Male,16,9th,81,7,High School,High,A,Yes,Average,C
+S0353,Male,18,9th,87,16,High School,Medium,A,Yes,Poor,C
+S0354,Female,17,11th,73,23,High School,Low,B,Yes,Average,C
+S0355,Female,16,9th,86,23,Master's,Medium,A,No,Poor,C
+S0356,Male,15,11th,100,17,Bachelor's,Low,A,No,Good,A
+S0357,Female,15,12th,99,11,Bachelor's,Medium,C,Yes,Good,B
+S0358,Female,16,10th,87,19,Bachelor's,Low,D,No,Poor,D
+S0359,Male,17,9th,85,11,Master's,Medium,B,No,Poor,D
+S0360,Male,15,10th,61,12,High School,Low,C,No,Average,F
+S0361,Female,18,10th,84,9,Bachelor's,Medium,D,No,Poor,F
+S0362,Male,15,12th,62,18,Master's,Medium,D,No,Poor,D
+S0363,Male,14,10th,67,8,High School,High,D,No,Average,F
+S0364,Female,14,11th,92,14,Bachelor's,High,C,Yes,Average,B
+S0365,Male,17,10th,94,24,High School,Low,C,No,Average,D
+S0366,Male,16,10th,65,19,Bachelor's,Medium,D,No,Poor,D
+S0367,Female,17,10th,98,22,Bachelor's,Low,A,No,Average,B
+S0368,Female,17,9th,82,24,Bachelor's,High,A,Yes,Good,A
+S0369,Male,17,9th,84,17,High School,Low,C,No,Good,D
+S0370,Male,17,11th,78,12,Master's,Low,C,No,Good,D
+S0371,Female,18,11th,64,13,High School,High,C,No,Poor,F
+S0372,Female,18,9th,70,20,Bachelor's,Medium,D,Yes,Good,B
+S0373,Female,15,11th,71,23,High School,Low,A,No,Poor,D
+S0374,Female,14,9th,69,20,Master's,High,C,Yes,Poor,B
+S0375,Male,17,12th,67,11,High School,Medium,C,No,Good,F
+S0376,Female,15,10th,83,18,Master's,High,B,Yes,Average,A
+S0377,Female,14,10th,87,18,Master's,Low,D,Yes,Poor,C
+S0378,Male,16,11th,100,8,High School,Medium,B,Yes,Good,B
+S0379,Female,18,9th,95,19,Bachelor's,Medium,A,No,Poor,B
+S0380,Male,14,9th,96,7,Master's,High,B,Yes,Average,A
+S0381,Female,16,11th,80,9,High School,High,B,Yes,Average,C
+S0382,Female,14,9th,67,5,Master's,High,B,Yes,Good,A
+S0383,Female,18,12th,68,7,Bachelor's,Medium,D,Yes,Poor,D
+S0384,Male,18,10th,74,19,High School,Medium,A,No,Poor,D
+S0385,Male,15,11th,99,12,High School,Low,B,No,Poor,D
+S0386,Female,17,11th,77,8,High School,Medium,D,No,Poor,F
+S0387,Male,14,9th,79,6,Bachelor's,Low,A,No,Good,C
+S0388,Male,14,11th,65,14,Master's,High,C,Yes,Average,C
+S0389,Male,16,12th,71,8,High School,High,B,No,Good,C
+S0390,Male,18,9th,61,7,Master's,Medium,A,Yes,Poor,C
+S0391,Male,14,9th,66,6,Master's,High,B,No,Poor,C
+S0392,Male,18,9th,75,21,Bachelor's,High,C,No,Average,C
+S0393,Female,14,9th,62,24,High School,Medium,A,No,Poor,D
+S0394,Female,15,12th,62,17,Master's,Low,D,Yes,Good,B
+S0395,Male,17,9th,86,9,High School,Medium,A,No,Good,D
+S0396,Female,14,11th,99,13,High School,Low,D,No,Average,F
+S0397,Female,18,12th,97,10,Bachelor's,Medium,A,No,Good,B
+S0398,Female,15,10th,92,9,High School,Medium,D,Yes,Good,C
+S0399,Female,14,10th,87,14,High School,High,C,No,Good,D
+S0400,Male,16,11th,60,12,Master's,Medium,C,No,Good,D
+S0401,Female,17,11th,67,11,Bachelor's,Medium,C,Yes,Poor,D
+S0402,Female,14,12th,96,11,High School,Low,A,Yes,Good,B
+S0403,Male,15,10th,91,10,Master's,High,C,No,Average,C
+S0404,Male,16,10th,96,24,Bachelor's,Low,B,No,Average,B
+S0405,Female,15,10th,63,7,Bachelor's,Low,C,No,Good,D
+S0406,Female,15,10th,89,23,Master's,High,D,Yes,Average,B
+S0407,Female,16,10th,65,19,Master's,High,D,Yes,Good,A
+S0408,Female,15,9th,78,8,Master's,High,D,Yes,Average,C
+S0409,Female,16,11th,91,16,Master's,Medium,A,No,Average,B
+S0410,Female,14,9th,68,10,Master's,High,B,Yes,Good,A
+S0411,Male,16,10th,71,23,High School,High,C,No,Good,C
+S0412,Female,16,12th,70,8,High School,High,B,Yes,Poor,C
+S0413,Female,17,12th,75,19,Bachelor's,Low,B,Yes,Good,A
+S0414,Male,16,10th,60,13,High School,Low,D,Yes,Good,D
+S0415,Male,16,10th,80,9,High School,Medium,D,No,Poor,F
+S0416,Male,14,12th,89,17,High School,Low,D,No,Good,D
+S0417,Male,17,9th,72,22,Master's,Medium,A,No,Good,B
+S0418,Female,18,9th,93,9,Bachelor's,Low,B,No,Poor,C
+S0419,Female,14,10th,63,20,Bachelor's,High,B,Yes,Good,A
+S0420,Female,14,9th,87,23,Bachelor's,Low,A,No,Good,B
+S0421,Female,18,12th,97,18,Bachelor's,Medium,A,Yes,Poor,A
+S0422,Female,16,9th,90,20,High School,Low,A,No,Poor,D
+S0423,Female,15,10th,86,19,High School,High,B,No,Average,C
+S0424,Male,17,12th,64,8,Master's,Medium,B,Yes,Good,B
+S0425,Female,15,9th,84,11,Bachelor's,High,D,Yes,Average,C
+S0426,Male,18,11th,62,20,High School,High,D,No,Average,D
+S0427,Male,14,12th,92,12,High School,Medium,B,No,Poor,D
+S0428,Female,14,12th,63,21,Master's,High,D,Yes,Good,A
+S0429,Male,17,11th,84,20,Master's,High,A,Yes,Good,A
+S0430,Female,14,11th,79,14,Master's,Low,C,Yes,Poor,D
+S0431,Male,14,12th,93,14,High School,High,D,Yes,Average,C
+S0432,Female,17,11th,85,6,High School,High,B,Yes,Poor,C
+S0433,Male,17,10th,64,13,Master's,High,D,No,Good,C
+S0434,Female,18,10th,94,21,Bachelor's,High,D,No,Poor,B
+S0435,Female,14,10th,87,15,Master's,Medium,D,No,Good,D
+S0436,Female,14,12th,88,14,Master's,Low,C,No,Average,F
+S0437,Female,18,11th,68,21,Master's,High,A,Yes,Good,A
+S0438,Female,16,11th,97,8,Master's,High,B,Yes,Average,A
+S0439,Male,16,9th,65,20,High School,Medium,C,Yes,Average,D
+S0440,Male,16,9th,78,24,Bachelor's,High,B,No,Good,A
+S0441,Male,18,11th,70,19,Master's,Medium,B,Yes,Good,A
+S0442,Female,14,11th,61,9,Bachelor's,Low,B,Yes,Average,C
+S0443,Male,18,11th,68,10,Bachelor's,Low,C,No,Poor,F
+S0444,Female,18,12th,80,21,Bachelor's,High,A,No,Good,A
+S0445,Female,16,11th,83,5,Master's,High,B,No,Average,C
+S0446,Male,15,9th,93,23,High School,High,A,Yes,Average,A
+S0447,Male,14,12th,81,8,Master's,Medium,A,Yes,Poor,C
+S0448,Female,16,11th,62,21,Bachelor's,High,D,No,Good,B
+S0449,Male,15,9th,71,13,Bachelor's,High,C,No,Average,D
+S0450,Female,15,12th,87,6,High School,Low,C,Yes,Poor,F
+S0451,Female,17,11th,89,12,Master's,High,D,No,Average,D
+S0452,Female,14,11th,85,19,Bachelor's,Low,D,Yes,Good,B
+S0453,Female,15,11th,80,11,High School,High,A,No,Poor,D
+S0454,Female,16,12th,87,10,Bachelor's,Low,B,No,Average,D
+S0455,Male,17,9th,85,5,High School,High,C,No,Poor,F
+S0456,Male,14,9th,92,19,High School,Low,B,Yes,Good,A
+S0457,Female,18,10th,80,11,Master's,Medium,B,Yes,Poor,C
+S0458,Female,16,11th,94,21,Bachelor's,Low,D,No,Good,B
+S0459,Male,15,10th,93,6,Master's,Low,B,Yes,Average,B
+S0460,Male,15,10th,100,13,Bachelor's,Low,A,No,Good,B
+S0461,Female,16,9th,77,13,Master's,High,D,No,Average,D
+S0462,Male,15,12th,70,17,Bachelor's,High,B,Yes,Average,A
+S0463,Female,17,12th,82,10,Master's,High,D,Yes,Good,B
+S0464,Male,14,9th,81,10,High School,Medium,A,Yes,Average,D
+S0465,Female,17,12th,76,24,Bachelor's,Medium,A,Yes,Poor,B
+S0466,Male,15,10th,64,24,Bachelor's,Low,B,No,Average,C
+S0467,Female,18,11th,70,7,High School,Medium,D,Yes,Good,D
+S0468,Male,14,9th,89,21,Master's,Low,B,Yes,Poor,B
+S0469,Male,14,11th,74,21,Bachelor's,Low,B,No,Poor,C
+S0470,Female,16,12th,86,16,Bachelor's,Low,D,No,Average,D
+S0471,Male,16,11th,94,20,Master's,Medium,B,No,Average,B
+S0472,Female,18,12th,92,19,High School,High,A,No,Good,A
+S0473,Male,14,12th,79,17,Master's,Medium,D,Yes,Poor,C
+S0474,Female,18,10th,75,5,Master's,Low,D,Yes,Good,C
+S0475,Male,16,12th,93,21,Master's,Low,D,No,Average,C
+S0476,Female,16,10th,61,7,Bachelor's,Medium,D,No,Poor,F
+S0477,Male,14,10th,94,19,High School,Low,B,Yes,Good,A
+S0478,Female,17,10th,99,8,High School,Low,B,Yes,Good,B
+S0479,Male,15,9th,87,8,Master's,Medium,A,Yes,Good,B
+S0480,Female,16,9th,98,22,Bachelor's,Medium,C,Yes,Good,A
+S0481,Female,16,12th,65,21,Master's,Medium,C,Yes,Good,B
+S0482,Female,17,10th,68,23,Bachelor's,Low,A,No,Poor,C
+S0483,Male,17,9th,79,15,Bachelor's,Low,C,No,Good,D
+S0484,Female,18,10th,60,24,Bachelor's,High,A,No,Poor,B
+S0485,Male,18,11th,67,7,Bachelor's,High,B,No,Good,B
+S0486,Female,15,11th,82,12,High School,Medium,D,Yes,Average,F
+S0487,Male,15,11th,62,18,Bachelor's,High,D,No,Average,C
+S0488,Female,14,12th,63,5,Bachelor's,Low,B,Yes,Good,B
+S0489,Male,18,10th,84,18,Master's,High,D,Yes,Average,B
+S0490,Male,16,11th,97,6,Master's,Low,D,Yes,Poor,C
+S0491,Female,18,9th,74,8,High School,Medium,C,Yes,Good,D
+S0492,Male,16,11th,80,23,Master's,Medium,B,Yes,Poor,B
+S0493,Male,17,11th,94,10,Bachelor's,Low,C,Yes,Good,B
+S0494,Female,18,11th,73,5,Master's,High,C,Yes,Average,C
+S0495,Male,17,12th,95,21,High School,Medium,D,No,Poor,D
+S0496,Male,15,9th,71,12,Master's,Medium,D,Yes,Average,D
+S0497,Male,15,10th,76,23,Master's,High,B,No,Average,B
+S0498,Female,14,9th,98,5,High School,High,D,No,Good,C
+S0499,Male,18,10th,68,9,High School,Low,D,Yes,Poor,F
+S0500,Female,17,12th,94,20,Bachelor's,High,B,Yes,Average,A
+S0501,Male,16,12th,72,10,Master's,High,D,No,Good,C
+S0502,Male,15,12th,74,12,Bachelor's,High,C,No,Good,C
+S0503,Male,15,12th,77,17,Master's,Low,B,No,Good,B
+S0504,Female,16,10th,92,20,Master's,Low,D,No,Average,C
+S0505,Male,17,11th,65,7,Bachelor's,Medium,A,Yes,Good,B
+S0506,Male,17,10th,86,23,Master's,Low,B,Yes,Poor,B
+S0507,Female,18,9th,82,16,Master's,Medium,B,Yes,Poor,B
+S0508,Male,18,12th,86,20,Master's,High,A,No,Average,B
+S0509,Female,14,12th,93,15,High School,Medium,D,Yes,Poor,D
+S0510,Female,15,9th,97,14,Bachelor's,Medium,D,No,Good,C
+S0511,Male,18,10th,73,24,High School,High,B,Yes,Average,B
+S0512,Female,17,11th,95,8,Bachelor's,Medium,B,No,Good,B
+S0513,Male,16,11th,67,16,Bachelor's,Low,D,Yes,Average,C
+S0514,Female,17,9th,94,6,Master's,Low,D,Yes,Average,C
+S0515,Female,15,11th,78,23,Bachelor's,Low,C,No,Good,C
+S0516,Male,17,10th,89,9,High School,Low,B,No,Poor,F
+S0517,Female,14,10th,73,12,High School,Medium,B,No,Poor,F
+S0518,Female,15,9th,79,11,High School,Medium,A,No,Average,F
+S0519,Female,16,10th,84,18,Bachelor's,High,C,No,Good,B
+S0520,Female,14,12th,99,7,High School,Medium,D,Yes,Good,C
+S0521,Female,15,9th,83,22,Bachelor's,Medium,C,No,Average,D
+S0522,Male,16,10th,73,20,High School,Medium,D,Yes,Poor,D
+S0523,Female,14,9th,85,23,High School,High,D,Yes,Good,B
+S0524,Male,14,11th,97,23,Bachelor's,Low,C,Yes,Poor,B
+S0525,Female,15,10th,82,22,High School,Medium,B,Yes,Poor,C
+S0526,Male,18,12th,81,24,Master's,High,D,Yes,Average,B
+S0527,Male,14,10th,78,20,Bachelor's,High,C,No,Average,C
+S0528,Female,14,9th,62,12,Bachelor's,High,A,No,Poor,C
+S0529,Female,16,9th,78,5,Bachelor's,Low,C,Yes,Good,C
+S0530,Female,17,10th,68,21,Master's,Medium,A,Yes,Good,A
+S0531,Male,15,12th,87,16,Bachelor's,High,D,No,Average,C
+S0532,Female,15,12th,79,15,High School,Low,C,No,Poor,F
+S0533,Male,18,12th,66,9,High School,High,C,Yes,Good,C
+S0534,Male,18,9th,73,16,High School,High,A,No,Good,B
+S0535,Male,15,10th,68,21,Bachelor's,High,C,No,Average,C
+S0536,Female,18,11th,78,10,High School,High,C,No,Poor,F
+S0537,Female,16,9th,73,5,Bachelor's,High,D,Yes,Good,B
+S0538,Male,15,12th,97,9,High School,Low,C,No,Average,F
+S0539,Male,18,10th,95,18,Master's,Medium,B,Yes,Good,A
+S0540,Female,15,12th,99,9,Master's,Medium,A,Yes,Good,A
+S0541,Male,17,11th,76,5,Master's,Medium,C,Yes,Good,C
+S0542,Female,14,12th,89,22,Master's,Medium,A,Yes,Average,B
+S0543,Male,15,12th,68,20,Bachelor's,Low,A,Yes,Poor,B
+S0544,Female,14,11th,92,13,High School,Low,A,No,Average,D
+S0545,Male,18,10th,84,23,Master's,Low,C,Yes,Poor,C
+S0546,Female,14,9th,73,9,Bachelor's,High,C,Yes,Good,B
+S0547,Male,15,10th,70,6,Master's,High,A,Yes,Poor,B
+S0548,Female,17,11th,94,19,Master's,High,B,No,Good,A
+S0549,Female,18,12th,100,11,Bachelor's,Medium,A,No,Good,B
+S0550,Male,15,10th,73,8,Bachelor's,High,B,No,Average,C
+S0551,Male,18,9th,89,5,High School,Medium,A,No,Good,D
+S0552,Female,16,11th,100,17,High School,High,D,No,Average,C
+S0553,Male,14,10th,63,24,Master's,Medium,A,No,Poor,C
+S0554,Female,16,9th,63,11,Master's,High,A,No,Poor,C
+S0555,Male,15,11th,87,19,High School,High,C,Yes,Good,B
+S0556,Female,17,9th,67,18,High School,Low,B,Yes,Average,C
+S0557,Female,18,11th,61,23,Bachelor's,High,D,No,Good,B
+S0558,Female,14,12th,100,24,High School,High,B,Yes,Average,A
+S0559,Female,18,10th,81,22,High School,Low,D,Yes,Average,D
+S0560,Female,15,9th,100,14,Master's,Medium,A,No,Average,C
+S0561,Female,18,11th,75,13,High School,Low,C,Yes,Poor,F
+S0562,Male,14,9th,88,12,Master's,Low,C,Yes,Average,D
+S0563,Male,15,9th,89,14,High School,Medium,B,No,Poor,F
+S0564,Male,18,10th,71,21,Bachelor's,High,C,Yes,Average,B
+S0565,Female,17,12th,94,6,High School,Medium,B,No,Poor,D
+S0566,Female,15,9th,70,10,High School,High,B,No,Poor,D
+S0567,Female,15,11th,80,9,High School,High,D,Yes,Poor,D
+S0568,Female,17,11th,80,13,Master's,Medium,B,Yes,Good,B
+S0569,Male,16,12th,64,9,Bachelor's,Low,D,Yes,Average,D
+S0570,Male,14,11th,79,22,High School,Medium,C,No,Good,D
+S0571,Female,16,12th,96,24,Master's,High,B,No,Average,A
+S0572,Male,18,11th,62,13,Bachelor's,Medium,B,No,Average,D
+S0573,Male,17,10th,92,21,Master's,Medium,A,Yes,Good,A
+S0574,Female,16,9th,68,21,Master's,High,B,Yes,Poor,A
+S0575,Male,15,10th,68,16,Bachelor's,Low,B,No,Average,C
+S0576,Female,18,9th,63,11,High School,Medium,A,Yes,Poor,D
+S0577,Male,18,9th,94,7,Master's,High,A,Yes,Good,A
+S0578,Female,16,9th,76,14,Master's,High,C,No,Poor,D
+S0579,Female,16,10th,93,6,High School,Medium,B,No,Average,D
+S0580,Female,17,9th,83,7,High School,Low,C,Yes,Average,F
+S0581,Female,14,10th,91,20,Bachelor's,Medium,C,No,Average,C
+S0582,Male,16,12th,60,6,Bachelor's,Low,A,Yes,Good,B
+S0583,Female,16,11th,67,14,Bachelor's,Low,D,No,Average,F
+S0584,Female,15,11th,82,10,High School,Low,C,No,Good,F
+S0585,Female,18,9th,99,15,Master's,Low,D,No,Poor,D
+S0586,Male,14,10th,71,11,Master's,Medium,B,Yes,Average,C
+S0587,Female,15,11th,71,19,Bachelor's,High,A,Yes,Average,A
+S0588,Male,17,10th,74,10,High School,High,B,No,Average,D
+S0589,Female,17,10th,100,24,Master's,High,B,No,Poor,A
+S0590,Male,16,9th,78,13,Bachelor's,High,A,No,Average,C
+S0591,Male,16,11th,85,24,Master's,High,B,Yes,Good,A
+S0592,Female,17,9th,88,16,Master's,High,A,No,Poor,B
+S0593,Male,16,9th,81,23,High School,Medium,D,No,Poor,F
+S0594,Female,14,11th,99,24,High School,Low,B,No,Poor,C
+S0595,Female,16,11th,80,7,Master's,High,A,No,Poor,C
+S0596,Female,18,12th,97,19,Bachelor's,Medium,C,Yes,Poor,B
+S0597,Male,16,12th,79,6,High School,High,B,Yes,Good,B
+S0598,Male,15,10th,88,6,Master's,High,D,No,Poor,D
+S0599,Female,14,11th,63,7,High School,Low,A,Yes,Average,D
+S0600,Female,15,12th,66,10,High School,Low,B,Yes,Poor,D
+S0601,Male,15,10th,87,19,High School,Low,B,Yes,Poor,C
+S0602,Female,18,10th,87,14,Master's,High,B,No,Poor,C
+S0603,Female,14,10th,63,13,Bachelor's,High,D,Yes,Poor,C
+S0604,Female,14,12th,81,5,Bachelor's,High,A,Yes,Poor,B
+S0605,Male,14,11th,71,20,Bachelor's,Low,C,Yes,Good,B
+S0606,Male,14,9th,62,10,High School,Medium,C,No,Good,F
+S0607,Male,14,10th,81,13,Master's,High,C,No,Poor,D
+S0608,Female,18,12th,61,8,High School,High,A,Yes,Good,B
+S0609,Female,16,12th,83,6,Bachelor's,High,C,Yes,Average,C
+S0610,Female,15,9th,93,8,Bachelor's,Medium,D,No,Poor,D
+S0611,Male,14,9th,86,5,Master's,High,A,No,Average,C
+S0612,Female,16,12th,100,23,High School,Medium,B,Yes,Average,B
+S0613,Female,16,11th,60,14,Bachelor's,High,D,Yes,Poor,C
+S0614,Female,15,9th,67,19,Master's,Medium,B,No,Average,C
+S0615,Female,18,12th,82,23,High School,High,C,No,Average,D
+S0616,Male,17,9th,97,20,High School,Low,D,Yes,Average,C
+S0617,Male,17,11th,65,8,Bachelor's,Low,A,No,Poor,D
+S0618,Female,16,10th,81,6,Bachelor's,Low,D,Yes,Poor,D
+S0619,Male,15,9th,84,17,High School,Low,B,Yes,Average,C
+S0620,Male,17,11th,77,5,High School,High,A,Yes,Poor,C
+S0621,Female,16,12th,76,21,Bachelor's,Low,D,No,Poor,D
+S0622,Female,18,9th,71,17,High School,Medium,D,Yes,Average,D
+S0623,Male,17,9th,65,8,Bachelor's,Low,D,Yes,Poor,D
+S0624,Female,16,12th,85,11,High School,Low,D,No,Good,F
+S0625,Male,16,10th,86,21,Bachelor's,Low,A,No,Poor,C
+S0626,Female,14,12th,67,13,Master's,High,B,Yes,Good,A
+S0627,Male,18,9th,78,8,Bachelor's,Low,D,Yes,Average,D
+S0628,Female,14,12th,60,23,Bachelor's,Medium,A,No,Poor,C
+S0629,Male,15,11th,88,5,Master's,Low,B,No,Average,D
+S0630,Male,14,12th,94,14,High School,Low,D,No,Average,F
+S0631,Male,14,9th,99,8,Master's,Low,B,Yes,Average,B
+S0632,Female,17,12th,73,13,Bachelor's,Medium,B,Yes,Average,C
+S0633,Male,16,10th,94,17,High School,Low,A,Yes,Average,B
+S0634,Male,18,12th,79,18,Master's,Medium,B,No,Poor,C
+S0635,Female,14,10th,72,14,High School,Medium,A,Yes,Good,C
+S0636,Female,18,11th,97,10,High School,Low,D,No,Poor,F
+S0637,Male,14,10th,67,20,Master's,Medium,B,Yes,Poor,B
+S0638,Male,15,12th,79,10,High School,High,B,No,Poor,D
+S0639,Female,14,9th,92,21,Master's,Low,C,Yes,Poor,B
+S0640,Female,17,10th,85,14,Bachelor's,Low,D,Yes,Good,C
+S0641,Female,16,11th,98,22,High School,Medium,D,No,Poor,D
+S0642,Female,15,10th,80,22,Bachelor's,Medium,C,No,Average,D
+S0643,Female,14,10th,100,7,Bachelor's,Low,C,Yes,Poor,C
+S0644,Male,18,10th,68,24,High School,High,A,No,Poor,C
+S0645,Female,15,11th,83,19,Master's,Medium,A,No,Good,B
+S0646,Male,15,12th,96,19,High School,Medium,B,Yes,Good,A
+S0647,Male,14,10th,100,8,Bachelor's,High,B,No,Average,B
+S0648,Male,15,10th,76,13,Bachelor's,High,B,Yes,Poor,B
+S0649,Female,18,9th,83,23,Master's,Low,B,Yes,Poor,B
+S0650,Male,15,11th,80,21,High School,High,A,No,Poor,C
+S0651,Male,18,10th,98,15,Bachelor's,Low,D,No,Average,D
+S0652,Female,14,11th,100,13,Bachelor's,High,B,Yes,Good,A
+S0653,Male,16,10th,98,14,Bachelor's,Medium,D,Yes,Average,C
+S0654,Male,15,12th,72,22,Master's,Low,B,Yes,Poor,B
+S0655,Female,16,12th,70,24,Bachelor's,Low,C,Yes,Good,B
+S0656,Male,18,10th,78,17,Bachelor's,Low,B,Yes,Good,A
+S0657,Male,15,12th,70,12,High School,High,B,Yes,Average,C
+S0658,Male,17,10th,72,11,High School,Medium,B,No,Good,D
+S0659,Female,16,12th,60,21,Bachelor's,Low,A,No,Good,B
+S0660,Female,15,9th,99,19,Bachelor's,Low,C,No,Poor,C
+S0661,Female,16,9th,78,24,High School,Low,B,Yes,Poor,C
+S0662,Male,15,9th,71,19,Master's,Low,B,No,Good,B
+S0663,Male,14,11th,67,5,Master's,Medium,D,Yes,Good,C
+S0664,Female,16,11th,67,18,Master's,High,C,Yes,Average,B
+S0665,Male,17,9th,71,9,Master's,Medium,B,No,Average,D
+S0666,Male,17,11th,92,15,Master's,Low,D,Yes,Good,B
+S0667,Female,18,12th,85,20,Master's,Medium,D,Yes,Poor,C
+S0668,Female,15,10th,98,6,Master's,Low,A,Yes,Good,A
+S0669,Male,16,10th,87,12,Master's,High,D,Yes,Good,B
+S0670,Male,18,10th,64,15,High School,High,B,Yes,Poor,C
+S0671,Male,16,9th,67,22,Master's,High,A,Yes,Poor,A
+S0672,Female,15,11th,84,7,Master's,Low,A,No,Average,D
+S0673,Female,17,12th,86,5,Master's,Medium,B,Yes,Average,C
+S0674,Female,14,12th,82,15,Bachelor's,High,C,Yes,Average,C
+S0675,Female,17,9th,89,20,High School,Low,D,Yes,Average,D
+S0676,Male,18,12th,82,22,High School,Low,A,Yes,Poor,C
+S0677,Female,14,12th,79,20,High School,Medium,C,No,Good,D
+S0678,Female,18,12th,77,14,Master's,High,B,No,Average,C
+S0679,Female,15,12th,77,22,Master's,Low,D,Yes,Average,C
+S0680,Female,14,11th,61,10,Bachelor's,Medium,D,Yes,Poor,D
+S0681,Female,18,12th,63,23,High School,High,A,Yes,Poor,B
+S0682,Male,15,10th,89,8,Master's,Medium,D,No,Good,D
+S0683,Male,17,9th,92,17,High School,Medium,D,No,Good,C
+S0684,Female,15,11th,95,18,Bachelor's,Low,D,No,Poor,C
+S0685,Male,16,12th,77,7,Bachelor's,Low,D,No,Average,F
+S0686,Female,15,11th,96,14,Bachelor's,Low,B,Yes,Average,B
+S0687,Female,15,12th,78,10,High School,Medium,C,No,Average,F
+S0688,Male,16,10th,87,5,Master's,Low,B,No,Good,C
+S0689,Male,18,9th,99,18,Master's,Medium,B,Yes,Average,A
+S0690,Female,18,12th,79,12,Bachelor's,Medium,A,Yes,Average,C
+S0691,Female,15,12th,92,23,Master's,Low,D,No,Poor,C
+S0692,Female,16,12th,71,18,Bachelor's,High,B,No,Average,B
+S0693,Male,16,12th,74,14,High School,High,D,No,Poor,F
+S0694,Female,17,9th,100,21,Bachelor's,High,B,No,Average,A
+S0695,Female,18,9th,98,13,High School,Medium,B,Yes,Good,B
+S0696,Female,14,10th,61,10,Bachelor's,Medium,A,Yes,Average,C
+S0697,Male,18,9th,88,15,Master's,Medium,C,No,Average,F
+S0698,Female,18,12th,100,11,Master's,Low,C,No,Poor,D
+S0699,Female,17,10th,69,21,Bachelor's,Medium,B,No,Poor,C
+S0700,Male,14,10th,61,5,Master's,Low,A,No,Poor,D
+S0701,Female,17,10th,70,9,Master's,Low,D,No,Average,F
+S0702,Female,14,12th,72,13,Master's,High,D,Yes,Average,C
+S0703,Male,15,11th,69,22,High School,High,B,Yes,Good,A
+S0704,Female,14,12th,73,6,Master's,High,C,Yes,Average,C
+S0705,Male,17,9th,77,15,High School,Low,A,No,Good,D
+S0706,Male,18,9th,68,10,Bachelor's,Low,C,No,Poor,F
+S0707,Female,14,12th,98,12,Master's,Low,D,Yes,Poor,C
+S0708,Female,14,12th,87,8,Master's,Medium,C,Yes,Poor,D
+S0709,Female,16,10th,62,22,Master's,Low,D,No,Good,C
+S0710,Female,18,12th,79,15,Bachelor's,High,A,Yes,Average,B
+S0711,Male,15,10th,65,9,High School,High,A,No,Poor,D
+S0712,Female,17,9th,86,19,High School,Low,B,No,Average,D
+S0713,Male,15,10th,61,22,Master's,Low,B,Yes,Average,B
+S0714,Female,18,12th,88,6,Bachelor's,High,C,Yes,Poor,C
+S0715,Female,14,9th,97,15,Bachelor's,Low,A,Yes,Good,A
+S0716,Female,14,11th,62,17,Bachelor's,High,A,No,Average,B
+S0717,Male,18,10th,75,8,Bachelor's,Medium,B,No,Poor,D
+S0718,Female,14,9th,89,11,Bachelor's,High,D,Yes,Average,C
+S0719,Female,14,10th,99,15,High School,Medium,C,No,Average,F
+S0720,Female,14,9th,61,8,High School,Low,C,No,Average,F
+S0721,Female,17,9th,76,19,High School,Low,B,No,Average,D
+S0722,Male,17,10th,100,5,Master's,Medium,A,Yes,Average,B
+S0723,Female,16,11th,71,7,Bachelor's,Low,B,No,Good,C
+S0724,Male,15,9th,94,18,Master's,Medium,B,Yes,Good,A
+S0725,Male,18,9th,60,10,Bachelor's,Low,B,Yes,Poor,C
+S0726,Male,18,9th,74,22,High School,High,B,No,Good,B
+S0727,Male,18,11th,85,5,Master's,Low,D,Yes,Good,C
+S0728,Male,16,11th,96,10,High School,High,D,No,Good,C
+S0729,Male,17,12th,80,10,Bachelor's,High,A,Yes,Average,B
+S0730,Female,16,10th,90,20,Bachelor's,Medium,B,Yes,Average,B
+S0731,Male,18,11th,84,9,Bachelor's,Low,D,No,Poor,F
+S0732,Male,15,10th,82,21,High School,Medium,A,Yes,Poor,C
+S0733,Male,14,12th,83,14,Bachelor's,Low,B,Yes,Poor,C
+S0734,Female,17,10th,97,22,High School,High,C,Yes,Average,B
+S0735,Female,17,11th,87,11,Master's,High,D,No,Good,C
+S0736,Male,16,10th,80,7,Bachelor's,Low,A,No,Good,C
+S0737,Female,17,11th,77,17,Bachelor's,Low,C,Yes,Average,C
+S0738,Male,18,10th,95,19,Bachelor's,Medium,B,Yes,Poor,A
+S0739,Male,18,11th,94,24,Master's,Low,B,Yes,Poor,A
+S0740,Female,16,11th,68,23,Bachelor's,Low,B,No,Poor,C
+S0741,Male,18,10th,97,7,High School,Low,D,No,Average,F
+S0742,Female,15,12th,89,8,High School,Medium,A,Yes,Poor,D
+S0743,Female,16,9th,93,9,Bachelor's,Low,C,No,Poor,D
+S0744,Male,15,12th,91,5,Bachelor's,High,A,No,Average,B
+S0745,Male,14,10th,62,8,Master's,Medium,D,No,Good,D
+S0746,Female,15,12th,62,16,Master's,Medium,A,No,Average,C
+S0747,Male,14,11th,87,14,Master's,High,D,Yes,Average,C
+S0748,Male,14,9th,74,24,Bachelor's,High,B,No,Average,B
+S0749,Male,15,10th,100,17,Master's,High,C,No,Average,B
+S0750,Female,16,10th,82,18,Master's,Low,B,Yes,Good,A
+S0751,Female,18,10th,99,9,High School,High,A,Yes,Poor,B
+S0752,Male,18,9th,70,8,Master's,Low,B,No,Average,D
+S0753,Female,14,11th,91,18,High School,Medium,C,No,Good,C
+S0754,Female,14,10th,95,14,High School,Medium,B,Yes,Poor,C
+S0755,Female,16,12th,92,21,Master's,High,C,Yes,Poor,A
+S0756,Female,17,10th,83,14,High School,Low,C,Yes,Poor,F
+S0757,Female,15,10th,98,11,Bachelor's,High,B,No,Average,B
+S0758,Male,14,10th,93,20,Bachelor's,High,D,No,Average,B
+S0759,Male,18,10th,87,5,Master's,Low,A,Yes,Poor,C
+S0760,Male,16,11th,96,21,Bachelor's,High,D,No,Poor,B
+S0761,Female,15,12th,66,13,High School,Medium,D,Yes,Poor,F
+S0762,Female,16,11th,63,10,Bachelor's,High,B,No,Poor,C
+S0763,Male,15,12th,96,23,Master's,Low,A,Yes,Poor,A
+S0764,Female,15,10th,60,17,Master's,Low,A,Yes,Poor,B
+S0765,Male,14,9th,60,7,High School,Medium,D,No,Good,F
+S0766,Male,16,11th,79,11,Master's,Low,B,No,Poor,D
+S0767,Male,16,9th,78,13,Bachelor's,Low,A,No,Average,D
+S0768,Female,18,11th,88,9,Master's,Medium,D,No,Average,F
+S0769,Female,18,10th,69,14,High School,High,A,No,Average,D
+S0770,Male,14,11th,77,21,Master's,Medium,B,No,Poor,C
+S0771,Male,14,10th,87,16,Bachelor's,High,B,Yes,Average,A
+S0772,Male,17,11th,94,20,High School,Medium,B,No,Good,B
+S0773,Male,18,10th,90,7,Bachelor's,High,A,Yes,Poor,B
+S0774,Female,15,10th,86,13,High School,Medium,C,Yes,Average,F
+S0775,Female,16,12th,70,19,Master's,High,A,No,Good,A
+S0776,Male,14,10th,97,9,High School,Medium,C,Yes,Good,C
+S0777,Male,16,12th,64,17,High School,High,B,Yes,Average,B
+S0778,Female,16,10th,67,18,Master's,Medium,D,No,Good,C
+S0779,Female,17,9th,93,24,Bachelor's,Low,C,No,Average,C
+S0780,Male,18,10th,71,19,Master's,High,B,No,Good,A
+S0781,Male,14,9th,97,20,High School,Medium,B,Yes,Poor,B
+S0782,Male,16,9th,60,17,Master's,High,C,No,Poor,C
+S0783,Female,14,10th,90,21,High School,High,D,No,Poor,D
+S0784,Female,15,9th,63,12,Master's,Medium,B,No,Poor,D
+S0785,Female,17,12th,64,6,Master's,High,C,No,Poor,D
+S0786,Male,15,11th,89,9,Bachelor's,Medium,D,Yes,Average,D
+S0787,Male,14,10th,83,10,High School,Low,D,No,Poor,F
+S0788,Female,14,9th,62,16,Bachelor's,High,B,Yes,Poor,A
+S0789,Female,18,10th,70,22,High School,Low,A,No,Poor,D
+S0790,Male,16,12th,63,5,Master's,High,A,Yes,Poor,B
+S0791,Female,16,10th,85,21,High School,High,B,Yes,Good,A
+S0792,Female,15,10th,86,15,Bachelor's,High,D,Yes,Poor,C
+S0793,Male,17,9th,86,14,Bachelor's,Medium,B,No,Poor,D
+S0794,Female,16,12th,65,23,Bachelor's,Low,C,Yes,Average,C
+S0795,Male,18,11th,74,18,High School,High,A,No,Good,B
+S0796,Male,15,11th,89,14,Bachelor's,Medium,C,No,Average,F
+S0797,Male,15,9th,96,19,Bachelor's,High,B,No,Poor,A
+S0798,Male,18,10th,96,23,Bachelor's,Medium,B,No,Average,B
+S0799,Male,17,9th,96,8,Master's,High,D,No,Average,C
+S0800,Male,18,9th,94,6,Master's,Low,D,Yes,Poor,C
+S0801,Male,17,9th,82,13,High School,Low,D,No,Good,F
+S0802,Female,18,10th,65,14,High School,High,C,Yes,Good,C
+S0803,Male,18,12th,63,15,Bachelor's,Medium,D,Yes,Average,D
+S0804,Male,14,9th,77,18,Master's,High,B,Yes,Poor,A
+S0805,Female,15,10th,68,11,Bachelor's,Medium,D,Yes,Average,D
+S0806,Female,18,12th,88,19,Bachelor's,High,A,Yes,Average,A
+S0807,Female,18,9th,72,23,Master's,Medium,D,Yes,Average,C
+S0808,Male,16,11th,76,19,Master's,Low,C,Yes,Poor,C
+S0809,Female,15,12th,91,12,Master's,High,A,No,Poor,B
+S0810,Male,16,9th,81,15,High School,Low,A,Yes,Good,C
+S0811,Male,15,12th,63,13,High School,Low,A,No,Poor,F
+S0812,Male,16,12th,64,19,Bachelor's,High,C,Yes,Average,B
+S0813,Male,18,12th,96,5,High School,High,B,Yes,Average,B
+S0814,Female,18,12th,100,5,Master's,Medium,D,Yes,Good,B
+S0815,Female,14,12th,72,23,Master's,Medium,A,Yes,Poor,B
+S0816,Male,16,12th,93,7,High School,Low,A,No,Average,D
+S0817,Male,17,9th,81,14,Bachelor's,Medium,A,No,Good,C
+S0818,Male,14,11th,82,12,Bachelor's,Medium,B,No,Good,C
+S0819,Female,16,10th,62,19,High School,High,B,Yes,Average,B
+S0820,Male,16,12th,93,14,Bachelor's,Medium,C,Yes,Average,C
+S0821,Male,14,10th,91,5,Bachelor's,Low,B,Yes,Poor,B
+S0822,Female,18,9th,80,22,Bachelor's,Medium,D,No,Good,C
+S0823,Female,16,12th,80,6,Master's,Low,C,Yes,Average,D
+S0824,Male,18,11th,70,23,Master's,High,C,No,Good,B
+S0825,Female,14,10th,98,17,High School,Low,D,No,Poor,D
+S0826,Female,18,12th,63,5,Master's,Medium,D,Yes,Average,D
+S0827,Male,15,9th,60,6,Bachelor's,High,D,Yes,Poor,C
+S0828,Female,17,11th,87,20,Master's,Medium,C,No,Good,C
+S0829,Male,16,10th,83,19,High School,High,C,No,Poor,D
+S0830,Female,17,10th,94,17,Master's,High,C,No,Poor,B
+S0831,Male,18,12th,72,20,Bachelor's,Medium,D,Yes,Good,B
+S0832,Male,16,11th,93,21,Bachelor's,Medium,D,Yes,Poor,B
+S0833,Male,18,11th,70,11,High School,High,A,Yes,Good,B
+S0834,Female,15,11th,95,21,Master's,High,B,Yes,Average,A
+S0835,Male,14,11th,76,11,Master's,Medium,A,Yes,Good,B
+S0836,Female,16,9th,94,17,Master's,Low,D,Yes,Good,A
+S0837,Male,15,11th,77,9,Bachelor's,Medium,C,No,Average,F
+S0838,Male,15,10th,99,21,High School,High,D,No,Good,B
+S0839,Female,16,10th,81,7,Master's,Medium,B,No,Average,D
+S0840,Male,18,9th,83,11,Bachelor's,Low,A,Yes,Average,C
+S0841,Male,15,10th,78,21,Bachelor's,Medium,A,No,Good,B
+S0842,Female,17,10th,96,11,Bachelor's,High,C,Yes,Poor,B
+S0843,Male,15,11th,98,5,Master's,Medium,A,Yes,Poor,B
+S0844,Male,18,10th,80,21,Master's,High,A,No,Average,B
+S0845,Male,18,9th,67,21,Master's,High,D,Yes,Poor,B
+S0846,Male,17,11th,87,15,Master's,Medium,A,No,Poor,D
+S0847,Female,15,12th,64,7,Master's,High,A,No,Good,B
+S0848,Female,18,11th,76,19,Master's,High,A,Yes,Average,A
+S0849,Male,16,9th,96,15,Master's,Low,C,No,Average,D
+S0850,Female,14,11th,95,20,Master's,Low,C,No,Good,B
+S0851,Male,14,11th,78,13,Master's,Low,D,No,Poor,F
+S0852,Female,14,9th,86,5,Bachelor's,Low,A,No,Average,D
+S0853,Male,15,11th,93,20,Master's,High,C,Yes,Poor,A
+S0854,Male,17,9th,70,13,High School,Medium,C,No,Average,F
+S0855,Male,18,9th,71,23,Bachelor's,High,D,No,Average,C
+S0856,Male,16,12th,80,16,Master's,High,B,No,Average,B
+S0857,Male,16,10th,70,23,High School,High,A,Yes,Average,B
+S0858,Male,15,10th,98,13,Master's,Medium,C,No,Poor,D
+S0859,Female,14,11th,87,11,High School,Low,D,Yes,Poor,F
+S0860,Male,15,11th,64,18,High School,High,D,No,Poor,D
+S0861,Female,17,12th,76,23,High School,High,D,No,Poor,D
+S0862,Male,17,12th,79,23,High School,Low,C,No,Good,D
+S0863,Female,18,12th,100,6,Bachelor's,High,A,Yes,Average,A
+S0864,Female,18,9th,71,13,Bachelor's,Medium,B,Yes,Average,C
+S0865,Female,17,12th,65,17,High School,High,A,Yes,Average,B
+S0866,Male,17,12th,76,19,Master's,High,D,Yes,Good,A
+S0867,Male,17,11th,78,7,High School,Low,D,Yes,Poor,F
+S0868,Female,15,12th,85,15,Bachelor's,High,B,Yes,Average,B
+S0869,Male,17,9th,91,18,Master's,High,A,No,Poor,A
+S0870,Female,16,9th,65,12,Bachelor's,Medium,D,Yes,Poor,D
+S0871,Male,14,11th,95,22,Bachelor's,Low,D,No,Good,B
+S0872,Female,17,12th,97,23,Master's,Low,A,Yes,Good,A
+S0873,Female,14,12th,70,20,High School,Medium,D,Yes,Poor,D
+S0874,Male,15,9th,92,6,High School,High,A,Yes,Average,B
+S0875,Female,14,12th,83,12,High School,Low,D,No,Average,F
+S0876,Male,15,12th,82,10,High School,Low,A,Yes,Good,C
+S0877,Female,16,12th,74,16,Master's,High,B,Yes,Good,A
+S0878,Female,15,10th,86,19,Master's,High,D,No,Good,B
+S0879,Male,15,11th,70,12,Master's,Low,B,No,Good,C
+S0880,Male,18,10th,76,8,Bachelor's,High,D,No,Good,C
+S0881,Male,17,11th,73,19,Master's,Low,D,No,Good,C
+S0882,Female,17,9th,86,24,High School,High,C,Yes,Good,B
+S0883,Male,16,12th,77,21,Bachelor's,High,A,No,Average,B
+S0884,Female,16,11th,87,17,High School,Medium,B,Yes,Good,B
+S0885,Female,17,10th,63,22,High School,High,B,Yes,Good,A
+S0886,Male,18,12th,66,6,Master's,Medium,B,No,Average,D
+S0887,Male,17,9th,94,17,Master's,High,A,Yes,Average,A
+S0888,Female,18,11th,68,17,High School,Low,C,No,Poor,F
+S0889,Female,16,11th,67,19,High School,Low,B,Yes,Good,B
+S0890,Male,14,11th,76,24,Bachelor's,High,A,No,Good,A
+S0891,Male,16,12th,76,14,Master's,High,D,No,Good,C
+S0892,Male,16,10th,92,7,Bachelor's,Low,B,No,Good,B
+S0893,Male,15,10th,91,23,Bachelor's,High,B,No,Poor,A
+S0894,Male,15,11th,67,7,Bachelor's,Medium,C,No,Average,F
+S0895,Female,15,9th,78,18,High School,Medium,B,No,Average,D
+S0896,Female,15,9th,97,12,Bachelor's,Medium,B,Yes,Good,A
+S0897,Female,18,10th,62,8,Bachelor's,Medium,D,Yes,Good,C
+S0898,Female,17,9th,64,24,High School,Medium,A,Yes,Good,B
+S0899,Male,14,10th,72,15,Master's,High,A,No,Poor,C
+S0900,Male,16,11th,90,15,Master's,High,C,Yes,Poor,C
+S0901,Male,18,10th,75,15,Bachelor's,Medium,D,No,Average,F
+S0902,Female,14,10th,91,6,High School,High,A,Yes,Good,A
+S0903,Female,18,11th,81,21,Master's,High,D,Yes,Good,A
+S0904,Male,18,9th,88,13,Bachelor's,Medium,A,No,Good,C
+S0905,Male,16,10th,81,6,Bachelor's,High,D,Yes,Good,B
+S0906,Female,17,10th,62,19,High School,High,C,Yes,Poor,C
+S0907,Female,15,11th,69,20,Bachelor's,High,B,Yes,Average,A
+S0908,Male,17,9th,80,8,Master's,Medium,C,No,Average,F
+S0909,Male,16,10th,75,12,High School,High,A,Yes,Poor,C
+S0910,Female,16,11th,71,13,Master's,Low,C,No,Good,D
+S0911,Male,16,10th,61,9,Master's,Low,B,Yes,Average,C
+S0912,Male,14,12th,100,20,Master's,Medium,C,Yes,Average,B
+S0913,Male,17,11th,83,17,Bachelor's,Low,A,Yes,Poor,B
+S0914,Female,17,9th,94,11,Bachelor's,Medium,A,Yes,Good,A
+S0915,Female,18,9th,89,24,Master's,Low,C,No,Average,D
+S0916,Female,18,9th,89,21,Master's,Low,B,Yes,Good,A
+S0917,Female,18,9th,94,7,High School,Low,C,No,Average,F
+S0918,Female,16,10th,78,9,High School,Medium,B,No,Poor,F
+S0919,Female,17,10th,67,23,Bachelor's,Medium,D,Yes,Good,B
+S0920,Female,16,9th,85,16,Bachelor's,High,B,Yes,Poor,A
+S0921,Male,14,9th,99,11,High School,Medium,D,No,Average,F
+S0922,Male,18,9th,66,13,Master's,Low,C,No,Poor,F
+S0923,Male,16,10th,89,10,Bachelor's,Low,B,Yes,Poor,C
+S0924,Male,16,9th,66,21,Master's,Medium,D,Yes,Poor,C
+S0925,Male,14,9th,62,20,High School,Medium,D,Yes,Average,D
+S0926,Male,15,12th,60,7,Bachelor's,Medium,D,Yes,Good,C
+S0927,Male,17,12th,95,8,Bachelor's,High,A,Yes,Poor,A
+S0928,Female,15,9th,84,14,High School,Low,C,No,Good,F
+S0929,Female,18,11th,96,9,Bachelor's,High,D,Yes,Average,B
+S0930,Male,16,9th,60,14,High School,High,B,Yes,Good,B
+S0931,Male,14,12th,74,16,Bachelor's,Low,D,No,Poor,D
+S0932,Female,14,11th,96,14,High School,Low,A,Yes,Poor,C
+S0933,Male,17,11th,72,17,Bachelor's,Medium,C,Yes,Poor,C
+S0934,Male,15,9th,99,15,Master's,Medium,A,No,Poor,C
+S0935,Female,17,12th,67,20,Master's,High,A,Yes,Poor,A
+S0936,Male,16,12th,64,12,Master's,Medium,A,No,Poor,D
+S0937,Female,17,11th,68,12,Bachelor's,Medium,B,Yes,Average,C
+S0938,Male,14,9th,60,12,Bachelor's,Low,C,Yes,Average,D
+S0939,Female,14,10th,95,17,Master's,Low,C,Yes,Average,B
+S0940,Female,18,10th,94,6,Master's,Medium,B,No,Good,B
+S0941,Female,18,12th,61,16,High School,Low,C,No,Good,D
+S0942,Male,16,10th,99,14,High School,Medium,A,No,Average,D
+S0943,Female,15,12th,82,16,High School,Low,C,No,Good,D
+S0944,Male,17,12th,68,15,Master's,Low,B,Yes,Good,B
+S0945,Male,16,12th,93,19,Master's,Low,A,No,Poor,B
+S0946,Male,18,10th,73,20,Master's,Low,B,No,Poor,C
+S0947,Male,17,12th,63,21,High School,Medium,D,No,Good,D
+S0948,Female,18,11th,89,6,Bachelor's,High,A,Yes,Good,A
+S0949,Female,17,9th,90,22,Master's,Low,A,Yes,Average,B
+S0950,Male,15,9th,97,16,Bachelor's,Medium,C,No,Good,B
+S0951,Male,16,12th,70,23,Bachelor's,Medium,A,No,Poor,C
+S0952,Female,17,9th,94,22,Bachelor's,Low,B,Yes,Good,A
+S0953,Male,14,10th,67,21,High School,High,C,No,Average,D
+S0954,Female,14,10th,62,10,Bachelor's,Low,D,No,Poor,F
+S0955,Male,17,9th,73,19,Master's,Medium,B,No,Poor,C
+S0956,Male,17,10th,72,7,High School,High,D,No,Poor,F
+S0957,Female,17,9th,91,10,Master's,Medium,D,Yes,Poor,C
+S0958,Male,14,9th,93,7,Master's,Low,D,Yes,Good,B
+S0959,Female,14,9th,78,5,High School,High,A,Yes,Average,C
+S0960,Male,17,12th,97,17,Master's,Medium,B,No,Good,A
+S0961,Male,18,9th,75,18,Master's,Medium,B,No,Good,B
+S0962,Male,18,12th,61,17,High School,Medium,A,Yes,Poor,C
+S0963,Female,15,9th,99,8,Master's,Low,C,Yes,Average,C
+S0964,Male,16,9th,76,11,Bachelor's,High,D,Yes,Poor,C
+S0965,Male,18,9th,93,14,Master's,Low,B,No,Good,B
+S0966,Male,14,10th,75,11,Bachelor's,Low,A,Yes,Good,B
+S0967,Male,18,12th,97,19,Master's,Low,D,No,Poor,C
+S0968,Female,15,12th,61,19,High School,High,C,No,Good,C
+S0969,Female,15,9th,61,8,High School,Low,C,Yes,Good,D
+S0970,Male,16,9th,85,10,Master's,Low,D,Yes,Poor,D
+S0971,Female,18,10th,72,24,High School,Low,C,No,Good,D
+S0972,Male,14,10th,90,9,Master's,Low,B,Yes,Average,C
+S0973,Male,14,10th,93,24,High School,Medium,B,Yes,Poor,B
+S0974,Male,17,12th,98,16,Bachelor's,Low,B,No,Average,B
+S0975,Female,14,12th,62,5,Master's,Medium,C,No,Good,D
+S0976,Female,16,12th,67,12,Bachelor's,Low,B,No,Good,C
+S0977,Female,16,9th,82,5,Bachelor's,High,A,No,Poor,C
+S0978,Female,14,12th,73,9,Master's,Medium,B,No,Good,C
+S0979,Female,14,11th,86,10,Bachelor's,Medium,B,Yes,Poor,C
+S0980,Female,17,11th,88,7,Master's,Medium,C,No,Poor,F
+S0981,Female,14,10th,98,19,Bachelor's,Medium,B,No,Poor,B
+S0982,Female,17,12th,98,9,Master's,High,D,No,Poor,C
+S0983,Female,17,11th,60,18,Master's,Low,A,Yes,Poor,B
+S0984,Male,14,10th,76,22,High School,Medium,C,No,Average,F
+S0985,Female,15,12th,100,20,Master's,High,A,No,Poor,A
+S0986,Female,15,9th,89,10,Master's,Medium,D,No,Average,F
+S0987,Female,17,11th,72,18,Bachelor's,Low,C,Yes,Good,B
+S0988,Female,14,9th,80,12,Master's,Medium,C,No,Poor,F
+S0989,Female,15,12th,78,11,High School,High,B,No,Good,C
+S0990,Female,14,11th,78,12,Bachelor's,Low,A,No,Poor,D
+S0991,Female,14,12th,84,17,Bachelor's,High,D,Yes,Average,B
+S0992,Female,14,9th,81,10,High School,Low,D,Yes,Average,F
+S0993,Female,18,11th,90,22,Bachelor's,Low,C,Yes,Average,C
+S0994,Female,14,9th,76,6,Bachelor's,Low,B,Yes,Good,B
+S0995,Female,18,12th,82,12,Bachelor's,Medium,C,No,Poor,F
+S0996,Male,17,12th,91,15,Bachelor's,High,C,No,Good,B
+S0997,Male,15,9th,69,5,High School,High,C,Yes,Average,D
+S0998,Female,15,11th,69,10,High School,High,C,Yes,Good,C
+S0999,Female,15,9th,95,20,Bachelor's,Low,D,No,Average,C
+S1000,Male,15,12th,67,24,Bachelor's,Medium,D,No,Average,D
