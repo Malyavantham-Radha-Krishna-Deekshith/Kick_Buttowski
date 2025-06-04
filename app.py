@@ -5,7 +5,7 @@ import numpy as np
 app = Flask(__name__)
 
 # Load the trained model and scaler
-with open("C:\\Users\\rkdee\\OneDrive\\Pictures\\lavanya\\trained_model (1).pkl", "rb") as file:
+with open("trained_model(1).pkl", "rb") as file:
     model = pickle.load(file)
 
 # Define mappings for categorical features
